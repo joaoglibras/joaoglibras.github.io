@@ -14,7 +14,7 @@ li {margin-top: 0.5em;}
 
 /* links */
 a {
-    text-decoration: none ;
+    text-decoration: none;
     color: var(--link);
 }
 a:hover {
